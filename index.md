@@ -1,3 +1,56 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>徐慧</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>上海大学理学院</b></p>
+      <p><b>邮箱：619831321@qq.com</b></p>
+      <p><b>地址：上海市宝山区上海大学
+    </td>
+    <td width="25%">
+      <img src="/touxiang.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+  
+ 
+## 个人简介
+  okokok
+
+
+## 研究兴趣
+
+- 图像处理、机器学习
+
+## 教育背景
+- 2005.09－2008.06 
+- 2005.09－2008.06 
+- 2005.09－2008.06 
+
+## 工作简历
+- 2018.3-现在
+- 2018.3-现在
+
+## 发表文章情况
+- 2020 
+- 2020
+
+## 项目情况：
+1. 123456
+2. 789654
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Oasis1307/Oasis.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
